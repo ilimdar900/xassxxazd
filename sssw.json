@@ -1,0 +1,14 @@
+{
+    "yayın1": {
+        "password": "password1",
+        "downloadLink": "https://www.example.com/indirme1"
+    },
+    "yayın2": {
+        "password": "password2",
+        "downloadLink": "https://www.example.com/indirme2"
+    },
+    "yayın3": {
+        "password": "password3",
+        "downloadLink": "https://www.example.com/indirme3"
+    }
+}
